@@ -1,3 +1,5 @@
+![resonate banner](./assets/resonate-banner.png)
+
 # Hello World — Resonate Rust SDK
 
 A minimal example showing how to define a durable workflow and a leaf function using the Resonate Rust SDK, register them, and execute them with crash recovery.
