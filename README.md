@@ -6,6 +6,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://resonatehq.github.io/examples-ci/">
+    <img src="https://img.shields.io/endpoint?url=https://resonatehq.github.io/examples-ci/status/example-hello-world-rs.json" alt="examples-ci status">
+  </a>
+</p>
+
 # Hello World — Resonate Rust SDK
 
 A minimal example showing how to define a durable workflow and a leaf function using the Resonate Rust SDK, register them, and execute them with crash recovery.
